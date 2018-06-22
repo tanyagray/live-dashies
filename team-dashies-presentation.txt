@@ -1,62 +1,122 @@
 
-- Mobile Order and Pay has taken the world by storm
-- It's a Plexure success story, and it hasn't yet even gone live.
+Mobile Order and Pay has taken the world by storm
 
-- MOP is the future of the fast food ordering experience,
-- and we are very excited to announce that from today,
-- your customers can enjoy the MOP experience
-- right from the comfort of their own homes.
+It's a Plexure success story, and it hasn't yet even gone live.
 
-- that's right, today we present you the Delivery Module for the Mobile Order and Pay platform.
+
+MOP is the future of the fast food ordering experience,
+
+and we are very excited to announce that from today,
+
+your customers can enjoy the MOP experience
+
+right from the comfort of their own homes.
+
+
+that's right, today we present you the Delivery Module for the Mobile Order and Pay platform.
+
+
+
+
+
 
 >> map view 
 
-- the Delivery Module is built in to plexure.io
-- it gives you a full view of all delivery orders, live
-- it gives you control of your driver distribution
-- and most importantly, it gives you ownership of the ordering experience
-- from the app right to the customer's doorstep
 
-- allow us to demonstrate. matt?
+the Delivery Module is built in to plexure.io
+
+it gives you a full view of all delivery orders, live
+
+it gives you control of your driver distribution
+
+and most importantly, it gives you ownership of the ordering experience
+
+from the app right to the customer's doorstep
+
+
+allow us to demonstrate. matt?
+
+
+
+
 
 >> matt places the order
 
-- the new delivery option fits seamlessly into the existing MOP user experience
-- customers place an order and confirm their location
-- their order status is then displayed, so they can track their food
+
+the new delivery option fits seamlessly into the existing MOP user experience
+
+customers place an order and confirm their location
+
+their order status is then displayed, so they can track their food
+
+
+
 
 >> map view
 
-- once the order is confirmed, it is sent to the closest restaurant
-- the closest available driver is then assigned to the order, and begins driving to the restaurant
-- as the driver arrives, the order is automatically sent to the kitchen
-- the driver picks up the order, and delivers it to the customer's door
 
-- is that awesome or what
+once the order is confirmed, it is sent to the closest restaurant
+
+the closest available driver is then assigned to the order, and begins driving to the restaurant
+
+as the driver arrives, the order is automatically sent to the kitchen
+
+the driver picks up the order, and delivers it to the customer's door
+
+
+is that awesome or what
+
+
+
+
 
 >> dashboard view
 
-- by the way i know we promised you live dashies
-- as an added bonus, all delivery data can be charted and tracked in real-time
-- live dashboards can be generated for all order stats, and saved for later viewing
+
+by the way i know we promised you live dashies
+
+as an added bonus, all delivery data can be charted and tracked in real-time
+
+live dashboards can be generated for all order stats, and saved for later viewing
+
+
+
+
 
 >> AWS
 
-- lambda to ingest order data into kinesis firehose
-- kinesis firehose for handling the stream of live data from drivers and orders
-- elastic search and kibana for real time visualisation
-- s3 for data warehouse of historical stream data
-- our web service is hosted on elastic beanstalk, supporting driver routing and tracking
+
+lambda to ingest order data into kinesis firehose
+
+kinesis firehose for handling the stream of live data from drivers and orders
+
+elastic search and kibana for real time visualisation
+
+s3 for data warehouse of historical stream data
+
+our web service is hosted on elastic beanstalk, supporting driver routing and tracking
+
+
+
+
 
 >> final pitch
 
-- the MOP Delivery Module removes the requirement for Uber Eats or other external vendors.
-- it puts quality assurance of the delivery experience back in the hands of McDonalds
-- delivery is optimised for freshness, with drivers automatically routed to the store closest to the customer's home
-- drivers are a centralised mcdonalds resource, allowing franchise owners to opt-in without hiring more staff
 
-- the MOP Delivery module is the future.
-- speak to myself or one of the team members after the event,
-- we would love to help you get your orders on the road.
+the MOP Delivery Module removes the requirement for Uber Eats or other external vendors.
 
-- thank you
+it puts quality assurance of the delivery experience back in the hands of McDonalds
+
+delivery is optimised for freshness, with drivers automatically routed to the store closest to the customer's home
+
+drivers are a centralised mcdonalds resource, allowing franchise owners to opt-in without hiring more staff
+
+
+the MOP Delivery module is the future.
+
+speak to myself or one of the team members after the event,
+
+we would love to help you get your orders on the road.
+
+
+thank you
