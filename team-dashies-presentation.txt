@@ -3,15 +3,10 @@ Mobile Order and Pay has taken the world by storm
 
 It's a Plexure success story, and it hasn't yet even gone live.
 
-
 MOP is the future of the fast food ordering experience,
-
 and we are very excited to announce that from today,
-
 your customers can enjoy the MOP experience
-
 right from the comfort of their own homes.
-
 
 that's right, today we present you the Delivery Module for the Mobile Order and Pay platform.
 
@@ -26,13 +21,9 @@ that's right, today we present you the Delivery Module for the Mobile Order and 
 the Delivery Module is built in to plexure.io
 
 it gives you a full view of all delivery orders, live
-
 it gives you control of your driver distribution
-
 and most importantly, it gives you ownership of the ordering experience
-
 from the app right to the customer's doorstep
-
 
 allow us to demonstrate. matt?
 
