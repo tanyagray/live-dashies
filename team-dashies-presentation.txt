@@ -9,7 +9,7 @@
 
 - that's right, today we present you the Delivery Module for the Mobile Order and Pay platform.
 
->> map view
+>> map view 
 
 - the Delivery Module is built in to plexure.io
 - it gives you a full view of all delivery orders, live
